@@ -1,0 +1,1 @@
+Plugin to create a custom post type with meta boxes and shortcode
